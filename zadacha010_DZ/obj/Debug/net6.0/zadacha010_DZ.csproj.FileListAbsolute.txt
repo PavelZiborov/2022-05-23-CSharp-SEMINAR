@@ -1,0 +1,15 @@
+/Users/pavel/Documents/IT/2022-05-23_C#_seminar/zadacha010_DZ/bin/Debug/net6.0/zadacha010_DZ
+/Users/pavel/Documents/IT/2022-05-23_C#_seminar/zadacha010_DZ/bin/Debug/net6.0/zadacha010_DZ.deps.json
+/Users/pavel/Documents/IT/2022-05-23_C#_seminar/zadacha010_DZ/bin/Debug/net6.0/zadacha010_DZ.runtimeconfig.json
+/Users/pavel/Documents/IT/2022-05-23_C#_seminar/zadacha010_DZ/bin/Debug/net6.0/zadacha010_DZ.dll
+/Users/pavel/Documents/IT/2022-05-23_C#_seminar/zadacha010_DZ/bin/Debug/net6.0/zadacha010_DZ.pdb
+/Users/pavel/Documents/IT/2022-05-23_C#_seminar/zadacha010_DZ/obj/Debug/net6.0/zadacha010_DZ.csproj.AssemblyReference.cache
+/Users/pavel/Documents/IT/2022-05-23_C#_seminar/zadacha010_DZ/obj/Debug/net6.0/zadacha010_DZ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavel/Documents/IT/2022-05-23_C#_seminar/zadacha010_DZ/obj/Debug/net6.0/zadacha010_DZ.AssemblyInfoInputs.cache
+/Users/pavel/Documents/IT/2022-05-23_C#_seminar/zadacha010_DZ/obj/Debug/net6.0/zadacha010_DZ.AssemblyInfo.cs
+/Users/pavel/Documents/IT/2022-05-23_C#_seminar/zadacha010_DZ/obj/Debug/net6.0/zadacha010_DZ.csproj.CoreCompileInputs.cache
+/Users/pavel/Documents/IT/2022-05-23_C#_seminar/zadacha010_DZ/obj/Debug/net6.0/zadacha010_DZ.dll
+/Users/pavel/Documents/IT/2022-05-23_C#_seminar/zadacha010_DZ/obj/Debug/net6.0/refint/zadacha010_DZ.dll
+/Users/pavel/Documents/IT/2022-05-23_C#_seminar/zadacha010_DZ/obj/Debug/net6.0/zadacha010_DZ.pdb
+/Users/pavel/Documents/IT/2022-05-23_C#_seminar/zadacha010_DZ/obj/Debug/net6.0/zadacha010_DZ.genruntimeconfig.cache
+/Users/pavel/Documents/IT/2022-05-23_C#_seminar/zadacha010_DZ/obj/Debug/net6.0/ref/zadacha010_DZ.dll
